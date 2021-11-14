@@ -1,0 +1,28 @@
+body {
+	font-size: 16px;
+	overflow: auto;
+	background-color: black;
+}
+::-webkit-scrollbar {
+	width: 20px;
+}
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
+
+@media screen and (max-width: 2000px) {
+	html {
+		font-size: 25px;
+	}
+}
+@media screen and (max-width: 600px) {
+	html {
+		font-size: 11px;
+	}
+}
+@media screen and (max-width: 400px) {
+	html {
+		font-size: 10px;
+	}
+}

@@ -1,0 +1,21 @@
+.list {
+	display: flex;
+	overflow-y: scroll;
+	gap: 30px;
+	flex-wrap: wrap;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.img {
+	height: 18rem;
+	width: 100%;
+}
+.items {
+	margin-top: 30px;
+	width: 8.2rem;
+	flex-grow: 1;
+}
+.movietitle {
+	color: rgb(219, 219, 219);
+	font-size: 15px;
+}
