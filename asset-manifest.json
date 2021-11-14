@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/dflix/static/css/main.7cc37911.chunk.css",
+    "main.js": "/dflix/static/js/main.1db6dc1d.chunk.js",
+    "main.js.map": "/dflix/static/js/main.1db6dc1d.chunk.js.map",
+    "runtime-main.js": "/dflix/static/js/runtime-main.683f0359.js",
+    "runtime-main.js.map": "/dflix/static/js/runtime-main.683f0359.js.map",
+    "static/js/2.c074ff5c.chunk.js": "/dflix/static/js/2.c074ff5c.chunk.js",
+    "static/js/2.c074ff5c.chunk.js.map": "/dflix/static/js/2.c074ff5c.chunk.js.map",
+    "static/js/3.b57df194.chunk.js": "/dflix/static/js/3.b57df194.chunk.js",
+    "static/js/3.b57df194.chunk.js.map": "/dflix/static/js/3.b57df194.chunk.js.map",
+    "index.html": "/dflix/index.html",
+    "static/css/main.7cc37911.chunk.css.map": "/dflix/static/css/main.7cc37911.chunk.css.map",
+    "static/js/2.c074ff5c.chunk.js.LICENSE.txt": "/dflix/static/js/2.c074ff5c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dflix/static/media/logo.6ce24c58.svg",
+    "static/media/poster1.jpg": "/dflix/static/media/poster1.d966e333.jpg",
+    "static/media/poster2.jpg": "/dflix/static/media/poster2.bf23bfae.jpg",
+    "static/media/poster3.jpg": "/dflix/static/media/poster3.7ee7b802.jpg",
+    "static/media/poster4.jpg": "/dflix/static/media/poster4.a2f1de9b.jpg",
+    "static/media/poster5.jpg": "/dflix/static/media/poster5.d0a9cf21.jpg",
+    "static/media/poster6.jpg": "/dflix/static/media/poster6.57e30e48.jpg",
+    "static/media/poster7.jpg": "/dflix/static/media/poster7.8f23c2d5.jpg",
+    "static/media/poster8.jpg": "/dflix/static/media/poster8.61013e43.jpg",
+    "static/media/poster9.jpg": "/dflix/static/media/poster9.080f3385.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.683f0359.js",
+    "static/js/2.c074ff5c.chunk.js",
+    "static/css/main.7cc37911.chunk.css",
+    "static/js/main.1db6dc1d.chunk.js"
+  ]
+}
