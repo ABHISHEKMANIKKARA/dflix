@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dflix/static/css/main.7cc37911.chunk.css",
+    "main.css": "/dflix/static/css/main.c4739430.chunk.css",
     "main.js": "/dflix/static/js/main.1db6dc1d.chunk.js",
     "main.js.map": "/dflix/static/js/main.1db6dc1d.chunk.js.map",
     "runtime-main.js": "/dflix/static/js/runtime-main.683f0359.js",
@@ -10,7 +10,7 @@
     "static/js/3.b57df194.chunk.js": "/dflix/static/js/3.b57df194.chunk.js",
     "static/js/3.b57df194.chunk.js.map": "/dflix/static/js/3.b57df194.chunk.js.map",
     "index.html": "/dflix/index.html",
-    "static/css/main.7cc37911.chunk.css.map": "/dflix/static/css/main.7cc37911.chunk.css.map",
+    "static/css/main.c4739430.chunk.css.map": "/dflix/static/css/main.c4739430.chunk.css.map",
     "static/js/2.c074ff5c.chunk.js.LICENSE.txt": "/dflix/static/js/2.c074ff5c.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/dflix/static/media/logo.6ce24c58.svg",
     "static/media/poster1.jpg": "/dflix/static/media/poster1.d966e333.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.683f0359.js",
     "static/js/2.c074ff5c.chunk.js",
-    "static/css/main.7cc37911.chunk.css",
+    "static/css/main.c4739430.chunk.css",
     "static/js/main.1db6dc1d.chunk.js"
   ]
 }
